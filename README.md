@@ -1,2 +1,2 @@
 # igme110
-For class projects
+For IGME.110 web project
